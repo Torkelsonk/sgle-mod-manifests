@@ -1,0 +1,12 @@
+{
+  "Games": [
+    {
+      "GameName": "RDR2",
+      "DisplayName": "Red Dead Redemption 2",
+      "Mods": [
+        { "Name": "Rampage Trainer", "Version": "1.3.5", "Status": "Enabled" },
+        { "Name": "Red Dead Trainer", "Version": "2.0.1", "Status": "Disabled" }
+      ]
+    }
+  ]
+}
