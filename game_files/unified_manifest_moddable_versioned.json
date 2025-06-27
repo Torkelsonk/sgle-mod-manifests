@@ -4997,8 +4997,8 @@
     },
     {
       "GameName": "the-planet-crafter",
-      "DisplayName": "Planet Crafter",
-      "Executable": "theplanetcrafter.exe",
+      "DisplayName": "The Planet Crafter",
+      "Executable": "Planet Crafter.exe",
       "CommonPaths": [
         "C:\\Program Files (x86)\\Steam\\steamapps\\common\\The Planet Crafter\\"
       ],
