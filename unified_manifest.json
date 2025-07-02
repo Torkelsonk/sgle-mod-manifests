@@ -1,0 +1,25 @@
+{
+  "ManifestVersion": "1.0",
+  "Games": [
+    {
+      "GameID": 1174180,
+      "GameName": "RDR2",
+      "DisplayName": "Red Dead Redemption 2",
+      "ExecutableMain": "RDR2.exe",
+      "ExecutableVariants": [
+        "RDR2.exe",
+        "PlayRDR2.exe"
+      ],
+      "DependenciesRequired": [
+        "ScriptHookRDR2.dll",
+        "dinput8.dll"
+      ],
+      "InstallPathHints": [
+        "C:\\Program Files (x86)\\Rockstar Games\\Red Dead Redemption 2",
+        "D:\\Games\\RDR2"
+      ],
+      "HeaderImageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg",
+      "CapsuleImageURL": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_231x87.jpg"
+    }
+  ]
+}
