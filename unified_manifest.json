@@ -14,12 +14,12 @@
         {
           "FileName": "ScriptHookRDR2.dll",
           "TargetPath": "root",
-          "DownloadUrl": "https://example.com/dependencies/ScriptHookRDR2.dll"
+          "DownloadUrl": "https://raw.githubusercontent.com/Torkelsonk/sgle-mod-manifests/main/dependencies/rdr2/ScriptHookRDR2.dll"
         },
         {
           "FileName": "dinput8.dll",
           "TargetPath": "root",
-          "DownloadUrl": "https://example.com/dependencies/dinput8.dll"
+          "DownloadUrl": "https://raw.githubusercontent.com/Torkelsonk/sgle-mod-manifests/main/dependencies/rdr2/dinput8.dll"
         }
       ],
       "InstallPathHints": [
