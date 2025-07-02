@@ -11,8 +11,16 @@
         "PlayRDR2.exe"
       ],
       "DependenciesRequired": [
-        "ScriptHookRDR2.dll",
-        "dinput8.dll"
+        {
+          "FileName": "ScriptHookRDR2.dll",
+          "TargetPath": "root",
+          "DownloadUrl": "https://example.com/dependencies/ScriptHookRDR2.dll"
+        },
+        {
+          "FileName": "dinput8.dll",
+          "TargetPath": "root",
+          "DownloadUrl": "https://example.com/dependencies/dinput8.dll"
+        }
       ],
       "InstallPathHints": [
         "C:\\Program Files (x86)\\Rockstar Games\\Red Dead Redemption 2",
